@@ -1,0 +1,178 @@
+.hero{
+        background-color:#ffffff;
+}
+
+.logo :hover{
+    
+}
+
+
+.list1{
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.32px;
+}
+.first-in-the-list :hover , .first-in-the-list :active{
+
+
+}
+
+.list2{
+    color: #2E2F42;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+.contacts :active,
+.contacts :focus {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+/*------------ --------------*/
+.middle-part{
+    background-color: #2E2F42;
+}
+
+.text-1{
+    color:#FFF;
+        text-align: center;
+        font-family: Roboto;
+        font-size: 56px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 60px;
+        letter-spacing: 1.12px;
+}
+
+.btn-1 :hover{
+        background: #4D5AE5;
+}
+/*--------------------------- --------------------------*/
+
+.hidden-text{
+visibility: hidden;
+}
+
+.middle-part2{
+    background-color: #FFF;
+}
+.text-2{
+    color: #2E2F42;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+}
+
+.text-3{
+    color: #434455;
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+
+        letter-spacing: 0.32px;
+}
+
+/*---------------------- ----------------------*/
+
+.middle-part3{
+    background-color: #F4F4FD;
+}
+
+.text-4{
+        color:#2E2F42;
+        text-align: center;
+        font-family: Roboto;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 40px;
+        letter-spacing: 0.72px;
+}
+
+.picture{
+        width: 264px;
+        height: 260px;
+}
+
+.text-5{
+        color:#2E2F42;
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.4px;
+}
+
+.text-6{
+color: #434455;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+/*------------------------- ---------------------------*/
+
+.text-title{
+    color: #2E2F42;
+        font-family: Roboto;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 40px;
+        letter-spacing: 0.72px;
+}
+
+.picture2{
+        width: 360px;
+}
+
+.text-7{
+    color: #2E2F42;
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 24px;
+        letter-spacing: 0.4px;
+}
+
+.text-8{
+    color: #434455;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.32px;
+}
+
+/*------------------------- ---------------------------*/
+
+.last-part{
+    background: #2E2F42;
+}
+
+.text-9{
+    color: #F4F4FD;
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.32px;
+
+}
