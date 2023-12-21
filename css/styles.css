@@ -1,13 +1,8 @@
-.hero{
-        background-color:#ffffff;
+body{
+background-color: #ffffff;
 }
 
-.logo :hover{
-    
-}
-
-
-.list1{
+.list1:hover{
         font-family: Roboto;
         font-size: 16px;
         font-style: normal;
@@ -15,12 +10,8 @@
         line-height: 24px;
         letter-spacing: 0.32px;
 }
-.first-in-the-list :hover , .first-in-the-list :active{
 
-
-}
-
-.list2{
+.list2 :hover  .list2 :hover{
     color: #2E2F42;
     font-family: Roboto;
     font-size: 16px;
@@ -30,8 +21,7 @@
     letter-spacing: 0.32px;
 }
 
-.contacts :active,
-.contacts :focus {
+.contacts :focus  .contacts :hover {
     font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
