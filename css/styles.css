@@ -19,25 +19,25 @@ color: #4d5ae5;
 
 }
 
-.header-item{
+.header-itemsc{
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
-.header-item :hover, .header-link-item :focus{
+.header-itemsc :hover, .header-link-item :focus{
     color: #404bbf;
 }
 
-.header-item2{
+.header-itemsc{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-.header-item2 :hover, .header-link-item2 :focus{
+.header-itemsc :hover, .header-link-item2 :focus{
     color: #404bbf;
 }
 .list1:hover{
@@ -78,7 +78,7 @@ color: #4d5ae5;
     background-color: #2E2F42;
 }
 
-.text-1{
+.text-fr{
         color:#FFF;
         text-align: center;
         font-family: 'Roboto', sans-serif;
@@ -89,7 +89,7 @@ color: #4d5ae5;
         letter-spacing: 1.12px;
 }
 
-.btn-1 :hover{
+.btn-fr :hover{
         background: #4D5AE5;
 }
 /*--------------------------- --------------------------*/
@@ -98,10 +98,10 @@ color: #4d5ae5;
 visibility: hidden;
 }
 
-.middle-part2{
+.middle-part-scnd{
     background-color: #FFF;
 }
-.text-2{
+.text-scnd{
     color: #2E2F42;
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
@@ -111,7 +111,7 @@ visibility: hidden;
     letter-spacing: 0.4px;
 }
 
-.text-3{
+.text-thrd{
         color: #434455;
         font-family: 'Roboto', sans-serif;
         font-size: 16px;
@@ -124,11 +124,11 @@ visibility: hidden;
 
 /*---------------------- ----------------------*/
 
-.middle-part3{
+.middle-part-thrd{
     background-color: #F4F4FD;
 }
 
-.text-4{
+.text-f{
         color:#2E2F42;
         text-align: center;
         font-family: 'Roboto', sans-serif;
@@ -139,7 +139,7 @@ visibility: hidden;
         letter-spacing: 0.72px;
 }
 
-.text-5{
+.text-fv{
         color:#2E2F42;
         font-family: 'Roboto', sans-serif;
         font-size: 20px;
@@ -148,7 +148,7 @@ visibility: hidden;
         letter-spacing: 0.4px;
 }
 
-.text-6{
+.text-sx{
 color: #434455;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
@@ -168,7 +168,7 @@ color: #434455;
         letter-spacing: 0.72px;
 }
 
-.text-7{
+.text-sv{
     color: #2E2F42;
         font-family: 'Roboto', sans-serif;
         font-size: 20px;
@@ -177,7 +177,7 @@ color: #434455;
         letter-spacing: 0.4px;
 }
 
-.text-8{
+.text-et{
     color: #434455;
         font-family: 'Roboto', sans-serif;
         font-size: 16px;
@@ -192,7 +192,7 @@ color: #434455;
     background: #2E2F42;
 }
 
-.text-9{
+.text-nn{
     color: #F4F4FD;
         font-family: 'Roboto', sans-serif;;
         font-size: 16px;
