@@ -22,7 +22,10 @@ text-transform: uppercase;
 color: #4d5ae5;
 }
 
-.header-item{
+.header-item :hover{
+    color: #404bbf;
+}
+.header-item {
     font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.02em;
