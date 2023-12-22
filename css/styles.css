@@ -16,14 +16,13 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
-
 }
 
 .header-itemsc{
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: #424354;
 }
 
 .header-itemsc :hover, .header-link-item :focus{
@@ -111,6 +110,9 @@ visibility: hidden;
     letter-spacing: 0.4px;
 }
 
+.list-frd{
+    background-color: #FFFFFF;
+}
 .text-thrd{
         color: #434455;
         font-family: 'Roboto', sans-serif;
@@ -135,7 +137,8 @@ visibility: hidden;
         font-size: 36px;
         font-style: normal;
         font-weight: 700;
-        line-height: 40px;
+        line-height: 1.11px;
+        text-transform: capitalize;
         letter-spacing: 0.72px;
 }
 
@@ -164,7 +167,8 @@ color: #434455;
         font-family: 'Roboto', sans-serif;
         font-size: 36px;
         font-weight: 700;
-        line-height: 40px;
+        line-height: 1.11px;
+        text-transform: capitalize;
         letter-spacing: 0.72px;
 }
 
