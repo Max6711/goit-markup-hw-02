@@ -36,7 +36,7 @@ color: #4d5ae5;
     color: #424354;
 }
 
-.header-item :hover, .header-link-item :focus{
+.header-link-item :hover, .header-link-item :focus{
     color: #404bbf;
 }
 
@@ -51,7 +51,7 @@ color: #4d5ae5;
     color: #404bbf;
 }
 
-.list-frst:hover{
+.list-frst :hover{
         font-family: 'Roboto', sans-serif;
         font-family: 'Raleway', sans-serif;
         font-size: 16px;
