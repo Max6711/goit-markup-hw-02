@@ -93,15 +93,10 @@ color: #4d5ae5;
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.04em;
-        color: #ffffff
+        color: #ffffff;
         cursor: pointer;
     }
-.btn-fr :hover{
-    background-color: #404bbf;
-
-}
-
-.btn-fr :focus{
+.btn-fr :hover, .btn-fr :focus {
     background-color: #404bbf;
 }
 /*--------------------------- --------------------------*/
