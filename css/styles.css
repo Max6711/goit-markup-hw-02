@@ -25,7 +25,7 @@ color: #4d5ae5;
     color: #424354;
 }
 
-.header-itemsc :hover, .header-link-item :focus{
+.header-link-item :hover, .header-link-item :focus{
     color: #404bbf;
 }
 
@@ -96,7 +96,7 @@ color: #4d5ae5;
         color: #ffffff;
         cursor: pointer;
     }
-.btn-fr :hover, .btn-fr :focus {
+.middle-part :hover, .middle-part :focus {
     background-color: #404bbf;
 }
 /*--------------------------- --------------------------*/
