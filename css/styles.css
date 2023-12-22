@@ -39,6 +39,9 @@ color: #4d5ae5;
 .header-link-item :hover, .header-link-item :focus{
     color: #404bbf;
 }
+.header-link-item :hover{
+    color: #404bbf;
+}
 
 .header-itemsc{
     font-size: 16px;
