@@ -36,7 +36,8 @@ color: #4d5ae5;
     letter-spacing: 0.02em;
     color: #424354;
 }
-.list-scnd :hover, .list-scnd :focus{
+
+.header-link-item-first:hover a , .header-link-item-first :focus{
     color: #404bbf;
 }
 
