@@ -7,6 +7,7 @@ color: #434455;
 .accent{
     color: #2e2f42;
 }
+
 .logo{
 font-family: 'Raleway', sans-serif;
 font-weight: 700;
@@ -16,6 +17,19 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 
+}
+
+.first-part-logo{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+
+}
+
+.first-part-logo :hover , .first-part-logo :focus{
+color: #404bbf;
 }
 
 .list1:hover{
@@ -41,7 +55,7 @@ color: #4d5ae5;
 .contacts :focus  .contacts :hover {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
-    font-weight: 500;
+    font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.32px;
 }
