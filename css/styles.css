@@ -36,10 +36,7 @@ color: #4d5ae5;
     color: #424354;
 }
 
-.header-link-item :hover, .header-link-item :focus{
-    color: #404bbf;
-}
-.header-link-item :hover{
+.header-item :hover, .header-link-item :focus{
     color: #404bbf;
 }
 
