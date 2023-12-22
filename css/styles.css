@@ -19,8 +19,11 @@ color: #4d5ae5;
 
 }
 
-.first-part-logo :hover , .first-part-logo :focus{
-color: #404bbf;
+.header-item{
+    font-weight: 500
+    line-height: 1.5
+
+
 }
 
 .list1:hover{
