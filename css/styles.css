@@ -21,7 +21,12 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 }
-
+.list-scnd :hover{
+    color: #404bbf;
+}
+.header-link-item-first :hover{
+    color: #404bbf;
+}
 .header-item :hover{
     color: #404bbf;
 }
