@@ -5,7 +5,7 @@ color: #434455;
 }
 
 .accent{
-    color: #2e2f42;
+    color: #f4f4fd;
 }
 
 .logo{
@@ -84,12 +84,25 @@ color: #4d5ae5;
         font-size: 56px;
         font-style: normal;
         font-weight: 700;
-        line-height: 60px;
+        line-height: 1.07;
         letter-spacing: 1.12px;
 }
 
+.btn-fr{
+        background-color: #4D5AE5;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #ffffff
+        cursor: pointer;
+    }
 .btn-fr :hover{
-        background: #4D5AE5;
+    background-color: #404bbf;
+
+}
+
+.btn-fr :focus{
+    background-color: #404bbf;
 }
 /*--------------------------- --------------------------*/
 
