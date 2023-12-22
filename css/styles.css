@@ -19,15 +19,6 @@ color: #4d5ae5;
 
 }
 
-.first-part-logo{
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-
-}
-
 .first-part-logo :hover , .first-part-logo :focus{
 color: #404bbf;
 }
@@ -40,6 +31,11 @@ color: #404bbf;
         font-weight: 500;
         line-height: 24px;
         letter-spacing: 0.32px;
+
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.02em;
+            color: #2e2f42;
 }
 
 .list2 :hover  .list2 :hover{
