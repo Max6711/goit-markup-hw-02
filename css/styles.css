@@ -13,46 +13,47 @@ color: #434455;
 }
 
 .logo{
-font-family: 'Raleway', sans-serif;
-font-weight: 700;
-font-size: 18px;
-line-height: 1.17;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #4d5ae5;
+      font-family: 'Raleway', sans-serif;
+      font-weight: 700;
+      font-size: 18px;
+      line-height: 1.17;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+      color: #4d5ae5;
+      cursor: auto;
+      text-decoration: none;
 }
 
 
 .header-item{
-    font-weight: 500;
+        font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #2e2f42;
+        text-decoration: none;
 }
 
-.header-itemsc{
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #424354;
-}
-
-.header-link-item-first:hover a , .header-link-item-first :focus{
+.header-link-item-first:hover a,
+.header-link-item-first :focus {
     color: #404bbf;
 }
 
 .header-itemsc{
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    text-decoration: none;
+    list-style-type: none;
 }
 
-.header-link-itemsc :hover, .header-link-itemsc :focus {
+.header-link-itemsc :hover,
+.header-link-itemsc :focus {
     color: #404bbf;
 }
 
-.list-frst :hover{
+.list-frst {
         font-family: 'Roboto', sans-serif;
         font-family: 'Raleway', sans-serif;
         font-size: 16px;
@@ -63,7 +64,7 @@ color: #4d5ae5;
         color: #2e2f42;
 }
 
-.list-scnd :hover{
+.list-scnd {
     color: #2E2F42;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
@@ -145,7 +146,7 @@ visibility: hidden;
 /*---------------------- ----------------------*/
 
 .middle-part-thrd{
-    background-color: #F4F4FD;
+        background-color: #F4F4FD;
 }
 
 .text-f{
@@ -170,12 +171,12 @@ visibility: hidden;
 }
 
 .text-sx{
-color: #434455;
-    font-family: 'Roboto', sans-serif;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+       color: #434455;
+       font-family: 'Roboto', sans-serif;
+       font-size: 16px;
+       font-weight: 400;
+       line-height: 24px;
+       letter-spacing: 0.32px;
 }
 
 /*------------------------- ---------------------------*/
@@ -191,7 +192,7 @@ color: #434455;
 }
 
 .text-sv{
-    color: #2E2F42;
+        color: #2E2F42;
         font-family: 'Roboto', sans-serif;
         font-size: 20px;
         font-weight: 500;
